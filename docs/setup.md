@@ -1,4 +1,5 @@
 # Environment Setup
+**Note:** This section is optional.
 
 ## Requirements
 

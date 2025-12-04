@@ -1,5 +1,5 @@
 # Usage
-
+**Note:** This section is optional.
 This document explains how to run demos, experiments, and test cases.
 
 ## Hello World demo
