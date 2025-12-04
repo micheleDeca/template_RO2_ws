@@ -1,5 +1,5 @@
 # Overview
-
+> **Note:** This section is optional.
 This repository is a template for thesis projects based on ROS 2.
 
 It provides:
