@@ -58,7 +58,7 @@ This architecture allows students to create their own external ROS 2 workspace a
 
 Before using this template, ensure you have:
 
-- **Ubuntu 22.04** or a compatible version
+- **Ubuntu 24.04** or a compatible version
 - **ROS 2 Humble** or newer
 - **Python 3.10** or newer
 - **colcon** (ROS 2 build tool)
